@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T06:45:07Z" name="Default suite" finished-at="2024-02-06T06:45:07Z" duration-ms="29">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T06:45:07Z" name="Default test" finished-at="2024-02-06T06:45:07Z" duration-ms="29">
+      <class name="com.testNG.AnnotationsPractice">
+        <test-method is-config="true" signature="openWeb()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="openWeb" finished-at="2024-02-06T06:45:07Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWeb -->
+        <test-method signature="tc01()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="tc01" finished-at="2024-02-06T06:45:07Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method is-config="true" signature="getStartTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getStartTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartTime -->
+        <test-method is-config="true" signature="getStartTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getStartTime" finished-at="2024-02-06T06:45:07Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartTime -->
+        <test-method is-config="true" signature="getEndTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getEndTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndTime -->
+        <test-method signature="tc02()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="tc02" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method is-config="true" signature="getEndTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getEndTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndTime -->
+        <test-method signature="tc03()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="tc03" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method is-config="true" signature="getStartTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getStartTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartTime -->
+        <test-method is-config="true" signature="getEndTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getEndTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndTime -->
+        <test-method signature="tc04()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="tc04" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method is-config="true" signature="getStartTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getStartTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartTime -->
+        <test-method is-config="true" signature="getStartTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getStartTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStartTime -->
+        <test-method signature="tc05()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="tc05" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method is-config="true" signature="getEndTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getEndTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndTime -->
+        <test-method is-config="true" signature="getEndTime()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="getEndTime" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEndTime -->
+        <test-method is-config="true" signature="closeWeb()[pri:0, instance:com.testNG.AnnotationsPractice@7582ff54]" started-at="2024-02-06T06:45:07Z" name="closeWeb" finished-at="2024-02-06T06:45:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWeb -->
+      </class> <!-- com.testNG.AnnotationsPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

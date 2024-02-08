@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="emailUser" value="Rajesh"></parameter>
+	<parameter name="passwordUser" value="Not Working"></parameter>
+  <test thread-count="5" name="Test">
+	<classes>
+      <class name="com.testNG.AssertPractice"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
